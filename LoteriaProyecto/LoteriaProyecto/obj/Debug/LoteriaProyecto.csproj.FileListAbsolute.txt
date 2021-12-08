@@ -1,0 +1,10 @@
+C:\Users\Hector Peña\source\repos\LoteriaProyecto\LoteriaProyecto\bin\Debug\LoteriaProyecto.exe.config
+C:\Users\Hector Peña\source\repos\LoteriaProyecto\LoteriaProyecto\bin\Debug\LoteriaProyecto.exe
+C:\Users\Hector Peña\source\repos\LoteriaProyecto\LoteriaProyecto\bin\Debug\LoteriaProyecto.pdb
+C:\Users\Hector Peña\source\repos\LoteriaProyecto\LoteriaProyecto\obj\Debug\LoteriaProyecto.csproj.AssemblyReference.cache
+C:\Users\Hector Peña\source\repos\LoteriaProyecto\LoteriaProyecto\obj\Debug\LoteriaProyecto.Form1.resources
+C:\Users\Hector Peña\source\repos\LoteriaProyecto\LoteriaProyecto\obj\Debug\LoteriaProyecto.Properties.Resources.resources
+C:\Users\Hector Peña\source\repos\LoteriaProyecto\LoteriaProyecto\obj\Debug\LoteriaProyecto.csproj.GenerateResource.cache
+C:\Users\Hector Peña\source\repos\LoteriaProyecto\LoteriaProyecto\obj\Debug\LoteriaProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Hector Peña\source\repos\LoteriaProyecto\LoteriaProyecto\obj\Debug\LoteriaProyecto.exe
+C:\Users\Hector Peña\source\repos\LoteriaProyecto\LoteriaProyecto\obj\Debug\LoteriaProyecto.pdb
